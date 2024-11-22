@@ -4,6 +4,10 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 */
 
+* {
+    font-family: courier, "Courier New", monospace;
+  }
+
 .hljs {
   display: block;
   overflow-x: auto;
