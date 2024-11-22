@@ -1,3 +1,7 @@
+* {
+    font-family: courier, "Courier New", monospace;
+  }
+
 .hljs.language-tsql {
     display: block;
     overflow-x: auto;
