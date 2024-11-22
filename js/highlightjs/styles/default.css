@@ -4,6 +4,10 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 
 */
 
+* {
+    font-family: courier, "Courier New", monospace;
+  }
+
 .hljs {
   display: block;
   overflow-x: auto;
