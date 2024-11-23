@@ -9,6 +9,7 @@ hr {
 
 a {
   color: black;
+  text-decoration: underline;
 }
 
 /* Post navigation links */
