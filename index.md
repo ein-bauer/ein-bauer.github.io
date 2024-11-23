@@ -1,3 +1,8 @@
+---
+layout: page
+sitemap: false
+---
+
 ### Who am I?
 I am a student who has finally found an interest in writing. My interests vary from the arts to the sciences—social and natural—to the law.
 
