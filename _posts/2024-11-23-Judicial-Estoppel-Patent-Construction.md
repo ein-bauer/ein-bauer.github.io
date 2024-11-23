@@ -1,3 +1,7 @@
+---
+categories: Intellectual Property
+---
+
 ## The Limited Scope of Judicial Estoppel Over Patent Claim Construction
 
 The Federal Circuit took invoked a seldom used tool of equity in
