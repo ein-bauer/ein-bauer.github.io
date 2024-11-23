@@ -8,7 +8,7 @@ sitemap: false
 
 <br>
 
-This is the homepage for <span style="font-variant:small-caps;">**Der Bauer**</span>. It's *raison d'être* is to serve as a space for publishing my writings. Do not expect beautiful prose or groundbreaking analysis, as this is, at best, a wetstone for my thoughts.
+This is the homepage for <span style="font-variant:small-caps;">**Der Bauer**</span>. It's *raison d'être* is to serve as a space for publishing blogs posts, essays, etc. on whatever my interests are at any given time. Do not expect beautiful prose or groundbreaking analysis, as this is, at best, a wetstone for my thoughts.
 
 <br>
 
