@@ -10,24 +10,24 @@ hr {
 /* LINKS */
 /* unvisited link */
 a:link {
-  color: black;
-  text-decoration: underline;
+  color: black !important;
+  text-decoration: underline !important;
 }
 
 /* visited link */
 a:visited {
-  color: black;
-  text-decoration: underline dotted;
+  color: black !important;
+  text-decoration: underline dotted !important;
 }
 
 /* mouse over link */
 a:hover {
-  color: black;
+  color: black !important;
 }
 
 /* selected link */
 a:active {
-  color: black;
+  color: black !important;
 }
 
 /* Post navigation links */
